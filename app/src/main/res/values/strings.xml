@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intentproject</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="enter_your_website">Enter your Website</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_email_id">Enter your Email id</string>
+    <string name="enteryourname">Enter your name</string>
+    <string name="Enteryourwebsite">Enter your website</string>
+    <string name="phone_number">phone_number</string>
+    <string name="button_1">Button 1</string>
+</resources>
